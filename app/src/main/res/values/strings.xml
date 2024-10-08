@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Henrique Chen</string>
+    <string name="title">Dev Júnior</string>
+    <string name="phone">+55 (81) 99999-9999</string>
+    <string name="social_media">"@MeuInsta"</string>
+    <string name="email">henrique@hotmail.com</string>
+</resources>
